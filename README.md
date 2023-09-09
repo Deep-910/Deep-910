@@ -1,3 +1,5 @@
+![Alt text]([image link](https://github.com/Deep-910/desktop-tutorial/blob/main/banner.png))
+
 - 👋 Hi, I’m @Deep-910
 - 👀 I’m interested in projects related to Web development.
 - 🌱 I’m currently learning Python for Data Science
