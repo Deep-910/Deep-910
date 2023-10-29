@@ -1,4 +1,4 @@
-![Alt text]([image link]([https://github.com/Deep-910/desktop-tutorial/blob/main/banner.png](https://github.com/Deep-910/Deep-910/blob/main/banner%20(2)-compressed.jpg)))
+![Alt text]([image link] (https://github.com/Deep-910/Deep-910/blob/main/banner%20(2)-compressed.jpg))
 
 - 👋 Hi, I’m @Deep-910
 - 👀 I’m interested in projects related to Web development.
