@@ -1,5 +1,4 @@
 ![Alt text]([image link](banner.png))
-a
 
 - 👋 Hi, I’m @Deep-910
 - 👀 I’m interested in projects related to Web development.
