@@ -44,19 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep-910&" alt="deep-910" /></p>
 
-pip install foobar
-
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-
 <!---
 Deep-910/Deep-910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
